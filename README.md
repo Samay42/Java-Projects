@@ -1,5 +1,5 @@
 
-# **Simple ATM System : **
+# Simple ATM System : 
 
 ## Description
 
